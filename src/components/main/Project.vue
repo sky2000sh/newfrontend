@@ -1,5 +1,5 @@
 <template>
-  <div class="container my-15">
+    <div class="container my-15">
         <div class="row" style="justify-center">
             <div class="col" lg="12" style="text-center">
                 <header class="text-h4" style="justify-center"> Project </header>
